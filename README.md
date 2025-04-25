@@ -45,7 +45,7 @@
 <div style="border: 1px solid #dfe6e9; box-shadow: 0 4px 8px rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #ffffff, #f2f4f6); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2d3436; line-height: 1.6;">
 
   <ul style="padding-left: 20px; font-size: 15px;">
-    <li>📍 The <strong>Food & Beverage</strong> category had the highest sales volume.</li>
+    <li>📍 The <strong>Snack Food Product</strong> category had the highest sales volume.</li>
     <li>📍 <strong>Branch A</strong> consistently outperforms others in gross income.</li>
     <li>📍 Most customers prefer <strong>Ewallets</strong> for payments.</li>
     <li>📍 <strong>Female customers</strong> make slightly more purchases than male customers.</li>
